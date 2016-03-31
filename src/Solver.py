@@ -18,3 +18,4 @@ class Solver:
               print('error')
 
 Solver().demo()
+
